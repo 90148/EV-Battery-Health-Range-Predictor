@@ -71,15 +71,3 @@ Models used:
 
 ---
 
-## 📦 Installation & Usage (Local)
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/Rajeswararao89/EV-Battery-Range-Prediction.git
-cd EV-Battery-Range-Prediction
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
