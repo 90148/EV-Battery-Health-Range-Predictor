@@ -5,7 +5,7 @@ A machine learning-powered web application that predicts **battery health** and 
 ## 🚀 Live Demo
 
 Try the interactive app here:  
-👉 [EV Battery Range Prediction App](https://ev-battery-range-prediction-74xnno3cqtaaetoni6efqp.streamlit.app/))
+👉 [[EV Battery Range Prediction App](https://ev-battery-health-range-predictor-qnkqtiphgt4xumfektl2eg.streamlit.app/)]
 
 
 📊 **Try it now**: Upload `ev_sensor_data.csv` to get instant predictions.
